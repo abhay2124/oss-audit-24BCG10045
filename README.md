@@ -1,9 +1,13 @@
 # oss-audit-24BCG10045
 
 Student Name: Dalvendra singh 
+
 Registration Number: 24BCG10045 
+
 Chosen Software: Python 
+
 Slot: E11 
+
 Date of Submission: 31-03-2026
 
 
